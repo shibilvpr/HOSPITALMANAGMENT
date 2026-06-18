@@ -386,7 +386,7 @@ const Receptionists = () => {
           <table>
             <thead>
               <tr>
-                <th>#</th>
+                <th>No</th>
                 <th>Name</th>
                 <th>Email Address</th>
                 <th>Role</th>

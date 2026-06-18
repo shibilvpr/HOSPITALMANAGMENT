@@ -398,7 +398,7 @@ const Doctors = () => {
           <table>
             <thead>
               <tr>
-                <th>#</th>
+                <th>No</th>
                 <th>Name</th>
                 <th>Specialty</th>
                 <th>Experience</th>

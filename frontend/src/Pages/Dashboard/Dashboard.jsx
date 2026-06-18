@@ -328,7 +328,7 @@ const Dashboard = () => {
           <table>
             <thead>
               <tr>
-                <th>#</th>
+                <th>No</th>
                 <th>Patient</th>
                 <th>Doctor</th>
                 <th>Date</th>
